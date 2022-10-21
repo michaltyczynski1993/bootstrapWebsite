@@ -13,3 +13,14 @@
     background-size: cover;
     background-position: center;
 }
+
+.services-background {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-white:hover {
+    background-color: rgb(225, 225, 225);
+}
